@@ -1,8 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter Trends
 
-# Kickstarting with Excel
-
 ## Overview of Project
 
 ### Purpose
@@ -19,14 +17,10 @@ I found it tedious to adjust my formulas to reference the appropriate cells.  I 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
--  Based on the analysis of the data we can see that campaigns reach a peak of success in May and June, the success rate decreases the remainder of the year.  We should continue to launch the most campaigns in the months of May and June.
+-  Based on the analysis of the data we conclude that campaigns reach a peak of success in May and June, the success rate decreases the remainder of the year.  We should continue to launch the most campaigns in the months of May and June.
 
-- What can you conclude about the Outcomes based on Goals?
-- The success and fail rates are direct opposites of one another.  The most successful campaigns are with a goal less than $1,000.
+- We can conclude the success and fail rates are direct opposites of one another.  The most successful campaigns are with a goal less than $1,000.
 
-- What are some limitations of this dataset?
-- Limittations include any outliers that many exist within the data set as well as any inconcistencies with the collected data.
+- Some limittations include any outliers that many exist within the data set as well as any inconcistencies with the collected data.
 
-- What are some other possible tables and/or graphs that we could create?
 - We can create a table and or graph to represent which categories are most successful.  We can also create a table and graph to see which capaigns have the most backers to understand if there are any commonalities amoung those campaigns. 
